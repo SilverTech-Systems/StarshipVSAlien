@@ -1,0 +1,7 @@
+*.depend
+*.exe
+/obj
+*.layout
+/21_sound_effects_and_music
+21_sound_effects_and_music.rar
+/sdl_tutorial_physics.layout~4bf261b49690dc6a91fcf024486899cf20c08422
